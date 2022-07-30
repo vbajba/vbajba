@@ -11,7 +11,7 @@
 <br/>  
 
 
-## My Skill Set  
+## Języki programowania
 <table><tr><td valign="top" width="50%">
 
 
