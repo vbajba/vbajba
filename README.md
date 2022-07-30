@@ -1,15 +1,11 @@
 ### <div align="center">Cześć 👋 Witam cię na moim profilu github.</div>  
-  
-
 <br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=vbajba&&style=flat-square" align="center" />
 </div>  
-  
 
 <br/>  
-
 
 ## Języki programowania
 
@@ -22,22 +18,10 @@
 
 <br/>  
 
-
 ## Statystyki Github 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=vbajba&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbajba&hide_border=true&layout=compact" align="left" />  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-<br/>  
-
-  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbajba&hide_border=true&layout=compact" align="center" />  
 
 <br/>  
 
