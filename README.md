@@ -7,7 +7,7 @@
 
 <br/>  
 
-## Języki programowania
+## Główne języki programowania
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
