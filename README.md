@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Fohsap
-- 👀 I’m interested in ... theology.
-- 🌱 I’m currently learning ... biochemistry.
-- 💞️ I’m looking to collaborate on ... documentation.
-- 📫 How to reach me ... discord B_M_N#7909 on https://discord.gg/acd or Fohsap on IRC.Libera.chat #windows-social
+Cześć 👋 Witam cię na moim profilu github.
 
-<!---
-Fohsap/Fohsap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## My Skill Set  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
+</div>  
