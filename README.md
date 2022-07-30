@@ -21,10 +21,4 @@
 ## Statystyki Github 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=vbajba&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbajba&hide_border=true&layout=compact" align="center" />  
-
-<br/>  
-
-<div align="center"></div>  
-
-<br/> 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbajba&hide_border=true&layout=compact" align="center" /></div>  
